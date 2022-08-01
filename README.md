@@ -1,4 +1,4 @@
-# Node.js Crash Course Lesson(s)
+# Node.js Crash Course
 
 This repository is a collection of everything I learned about node.js (excluding frameworks) such as the fs module, path module, URL & http module as well. Each file is heavily commented out as a way for me to understand each single line of code.
 
