@@ -9,4 +9,4 @@ cmd: npm develop
 This repo is for future reference in case my files have been deleted or I need a sharable reference. 
 
 # Credits
-Heavily appreciate the lesson conducted by Dev Ed: https://www.youtube.com/watch?v=zQRrXTSkvfw
+Heavily appreciate the lesson made by Dev Ed: https://www.youtube.com/watch?v=zQRrXTSkvfw
