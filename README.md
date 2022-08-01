@@ -1,7 +1,12 @@
 # Node.js Crash Course Lesson(s)
 
-This repository is a collection of everything I learned about node.js (excluding frameworks) such as the fs module, path module, URL & http module as well.
+This repository is a collection of everything I learned about node.js (excluding frameworks) such as the fs module, path module, URL & http module as well. Each file is heavily commented out as a way for me to understand each single line of code.
 
 # NPM packages installed:
 - nodemon
-cmd: npm developer
+cmd: npm develop
+
+This repo is for future reference in case my files have been deleted or I need a sharable reference. 
+
+# Credits
+Heavily appreciate the lesson conducted by Dev Ed: https://www.youtube.com/watch?v=zQRrXTSkvfw
