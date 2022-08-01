@@ -1,0 +1,22 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "description": "this is a crash course on node",
+  "main": "app.js",
+  "scripts": {
+    "develop": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donaridev/nodejstutorial.git"
+  },
+  "author": "donari dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donaridev/nodejstutorial/issues"
+  },
+  "homepage": "https://github.com/donaridev/nodejstutorial#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
